@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Cart.swift">
+   </FileRef>
+   <FileRef
       location = "group:swift-shopping-cart.xcodeproj">
    </FileRef>
    <FileRef
